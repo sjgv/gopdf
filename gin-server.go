@@ -164,7 +164,7 @@ func scrape(file_dict map[string]interface{}, c *gin.Context) []string {
 		(should only be used in the handler)
 
 		Gets AcroForm data from files and returns a list of fields
-			["app_last_name_g1145","app_first_name_g1145"]
+			["foo_bar","bar_mitzvah"]
 	*/
 
 	/*
